@@ -1,0 +1,662 @@
+[
+ {
+  "id": "P001",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué referencia temporal implica la acción expresada por el verbo nominalizado?",
+  "oro": [
+   "e2c1d5d4e6af"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 266,
+  "pasaje": "relativas con el agentivo el verbo no admite marca de persona (cf. también con lo dicho al respecto en 8.31. 3). Por otro lado, la referencia temporal implicada por el verbo nominalizado es la de una acción presente, o potencial en el mejor de los casos. Sean los siguientes ejemplos: Walash puñu - 9kaq chukchukuykan ‘ El muchacho que duerme estátemblando ’ Allqu chuqllu suwa - ^kaq yanam ‘ El perr"
+ },
+ {
+  "id": "P002",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué función adverbial marca el sufijo unido a ciertos adjetivos?",
+  "oro": [
+   "e228581111ea"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 131,
+  "pasaje": "131 Gramática quechua: JUNIN - HUANCA ‘ ¿ A dónde va este camino? ’ ¿ Maytam liykan kay kaminukaq? ¿ Maytataq pasaykan chay ‘ A dónde estádirigiéndose ese río? ’ mayukaq? Este mismo sufijo, unido a ciertos adjetivos, marca una función adverbial; por ejemplo: Alliktam tamyaqlamun ‘ Llovió bastante ’ Fiyu - £ tam luntuqlun Sumaqtam tushukun Hay un uso peculiar dekta unido a una raíz noninal flexiona"
+ },
+ {
+  "id": "P003",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se ha cambiado el fonema protoquechua * / q / en las variedades Huaylla y Huaycha?",
+  "oro": [
+   "b30680e822cf"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 31,
+  "pasaje": "31 Gramática quechua: JUNIN - HUANCA 1.11. Fonológicamente, las variedades Huaylla y Huaycha han cambiado el fonema protoquechua * / q / a una oclusiva glotal [?], la misma que ha desaparecido por completo en posición inicial de palabra; en la variedad jaujina, por el contrario, dicho protofonema se ha “ suavizado ”, articulándosele como una fricativa glotal, es decir [h], o frontallándosele como "
+ },
+ {
+  "id": "P004",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué indica la combinación chinaku cuando las personas involucradas en la acción hacen que cada una de ellas efectúe el proceso mentado por la raíz verbal?",
+  "oro": [
+   "24ec6a23cb67"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 193,
+  "pasaje": "mente tras la secuencianaku, como en: Kikinpulallam qutnnakulkan ‘ Entre ambos mismos se quitan (algo) recíprocamente ’ La secuencianaku puede combinarse conchi; en este caso el causativo puede ocurrir antes, al centro y después de tal secuencia. De este modo, la combinaciónchinaku indica que las personas involucradas en la acción hacen que cada una de ellas efectúe el proceso mentado por la raíz "
+ },
+ {
+  "id": "P005",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué grafías empleó el autor para representar consonantes como la palatal retrofleja?",
+  "oro": [
+   "a165409a8528"
+  ],
+  "documento": "Diccionario_Huanca_Quechua_Castellano_Ca.pdf",
+  "pagina": 3,
+  "pasaje": "591 Perales • Ráez: Diccionario Huanca. Quechua-Castellano/ Castellano-Quechua\nMás adelante, se continúa con una semblanza biográfica de José \nFrancisco María Ráez, seguida de una reseña de los antecedentes \nde la compilación léxica que elaboró el citado franciscano. Acto \nseguido, se prosigue con una aguda discusión sobre la propuesta \nalfabética que dicho autor empleó en su diccionario, poniendo"
+ },
+ {
+  "id": "P006",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo deben entenderse los volúmenes de esta colección?",
+  "oro": [
+   "9dfe3ac9bd6d"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 18,
+  "pasaje": "azo, por lo menos en una de sus lenguas se expresará sin inhibiciones ni recortes, hablando o escribiendo. En una u otra, o en una y otra se sentir áy será, efectivamente, más libre para comportarse y realizarse como persona y ciudadano, miembro de un país definido históricamente por sus raíces pluriculturales y multilingües. Los volúmenes de esta colección no deben entenderse, por tanto, como lib"
+ },
+ {
+  "id": "P007",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué indica el frecuentativoykatra?",
+  "oro": [
+   "b2f4f6f2923b"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 213,
+  "pasaje": "e pan ’ expresión completamente inusitada en las hablas de la parte sur de Huancayo. 6.21. 24. El frecuentativoykatra. Indica que la acción verbal se realiza de manera frecuente y en diferentes direcciones, generalmente sin sentido fijo y de manera superficial. Es diferente del multiplicativo"
+ },
+ {
+  "id": "P008",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué no pueden recibir oraciones complementarias los verbos de la oración matriz como qayay o takay?",
+  "oro": [
+   "5f91c27bda6a"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 254,
+  "pasaje": "actuar como verbos de la oración matriz. Por ejemplo, verbos como qayay ‘ llamar ’, takay ‘ golpear ’, etc. no pueden recibir oraciones complementarias, como lo prueba la agramaticalidad de los siguientes ejemplos: * Linayki kaykaashanta qayaykan ‘ Estállamando que tienes que ir ’ * Mikunaa kashanta takanki ‘ Vas a golpear que tengo que comer ’"
+ },
+ {
+  "id": "P009",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué indica Ipu?",
+  "oro": [
+   "2f59caaf6a49"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 200,
+  "pasaje": "200 CERRON - PALOMINO Uchukllakta mika - Z & aalin ‘ Comieron un poco ’ La direccionalidad se nota claramente cuando se lo opone a su contrario - Ipu (véase la siguiente sección), que indica una acción ‘ hacia abajo ’. Ejemplos: ¡ Upya - / / euy! ‘ ¡ Trata de beber! ’ ¡ Upya - / pwy! ‘ ¡ Trágalo (i. e. haz bajar el trago)! ’ El primer ejemplo expresa la incitación para beber, lo que, normalmente, "
+ },
+ {
+  "id": "P010",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué factores inciden negativamente en la consolidación de la democracia?",
+  "oro": [
+   "ebbc4b6e1941"
+  ],
+  "documento": "cancionero-wanka_comprimido.pdf",
+  "pagina": 57,
+  "pasaje": "entes y \nse refuerzan mutuamente.\nArtículo 12\nLa pobreza, el analfabetismo y los bajos niveles de desarrollo humano son \nfactores que inciden negativamente en la consolidación de la democracia. Los \nEstados Miembros de la OEA se comprometen a adoptar y ejecutar todas las \nacciones necesarias para la creación de empleo productivo, la reducción de \nla pobreza y la erradicación de la pobreza extrema,"
+ },
+ {
+  "id": "P011",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué sucede cuando un bilingüe pierde su confianza en el control de la lengua materna?",
+  "oro": [
+   "87e75f9fb084"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 14,
+  "pasaje": "ido hablada mas no escrita, muchos bilingües suelen perder en forma paulatina su confianza en el control de la lengua materna (si eraésta la marginada) e, infortunadamente, cuando esto ocurre no siempre han logrado apropiarse, en forma satisfactoria, del segundo idioma. A veces, por desgracia, el bilingüe lo es tan sólo en un nivel de comunicación tan incipiente que, con el correr del tiempo, en l"
+ },
+ {
+  "id": "P012",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se forman las cláusulas subordinadas en la gramática quechua?",
+  "oro": [
+   "6b2fd881b2ae"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 273,
+  "pasaje": "273 Gramática quechua: JUNIN - HUANCA se cumpla la acción del verbo principal. Se forman mediante los subordinadorespti y - /, seguidos del inclusivopis (cf. Cap. VII, sección 7.31). Ejemplos: Punkunta taka - /? £ ¿i - / w, manam kitrakunchu ‘ Aunque toco su puerta, no quiere abrir ’ Mañapíenp ¿ manash quyta munanchu ‘ Aun cuando le pide dicen que no quiere darle ’ ¡ Maski waqapí ¿np ¿ y linqatraa"
+ },
+ {
+  "id": "P013",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué los enclíticos reportativos son casi obligatorios en las oraciones declarativas de quechua?",
+  "oro": [
+   "bd98f779c24f"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 237,
+  "pasaje": "ciones subordinadas no admiten tal enclítico. Enclíticos reportativos. Corresponde a esta subclase un grupo de tres sufijos que se emplean generalmente en los reportajes o informaciones, los mismos que pueden ser producto de un conocimiento directo, indirecto, o incluso conjetural, por parte del hablante. Seguidamente se tratará acerca de cada uno de estos enclíticos. Pero antes debe advertirse qu"
+ },
+ {
+  "id": "P014",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué diferencia hay entre el pasado narrativo expresado por ñaq y el pasado simple?",
+  "oro": [
+   "4bacefc3fd12"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 174,
+  "pasaje": " Pasado narrativo. Como su nombre lo indica, el pasado narrativo, expresado porñ aq, se emplea básicamente en los relatos, y alude a una acción prolongada en el pasado. En este sentido es diferente al pasado simple, que nunca es empleado en los reportajes o narraciones de cuentos y sueños."
+ },
+ {
+  "id": "P015",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué es obligatoria la genitivización del sujeto en el contexto mencionado?",
+  "oro": [
+   "e04479c4a80b"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 265,
+  "pasaje": "relativas son el sujeto de la oración principal (es decir se predica acerca de ellas), pero al mismo tiempo los núcleostrumpu y kawallu — constituyen el objeto del verbo de la subordinada. En esta circunstancia es cuando el sujeto de ésta debe marcarse en el caso genitivo. La genitivización del sujeto en el contexto mencionado es obligatoria, ya que, de omitirse, la oración quedaría incompleta o a"
+ },
+ {
+  "id": "P016",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué indica el posesivoyuq cuando se agrega a un sustantivo o numeral?",
+  "oro": [
+   "e6d61d3ce0eb"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 154,
+  "pasaje": "154 CERRON - PALOMINO 5.41. 1. El posesivoyuq. Este sufijo, agregado a un sustantivo o a un numeral, indica que alguien o algo se caracteriza por la posesión del referente mencionado por la raíz. Cuando ésta termina en consonante o en vocal larga,yuq requiere de la mediación del morfema vacíoni. Ejemplos: Hampikuqkaq artiyw ^mi ‘ El curandero tiene arte ’ Mana wasiyu ^mi chay nunakunakaq ‘ Esas pe"
+ },
+ {
+  "id": "P017",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué es un afijo?",
+  "oro": [
+   "2353b5cb9b07"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 275,
+  "pasaje": "Glosario terminológico AFIJO: una forma ligada que se agrupa al principio (= prefijo), al final (= sufijo) o a la mitad (= infijo) de una raíz. AGLUTINANTE (lengua): lengua que combina varios elementos lingüísticos (en la forma de afijos) dentro de una misma palabra. ALOFONO: una de las realizaciones o variantes de un fonema (unidad mínima de sonido). Por ejemplo, las dos des de la palabra candado"
+ },
+ {
+  "id": "P018",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué se ha reiterado que un conjunto de estudiosos nacionales y extranjeros ha mantenido latente una antigua tradición?",
+  "oro": [
+   "d5323054386b"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 13,
+  "pasaje": "13 PROLOGO a los grupos monolingües: ni a los de quechua ni a los de español. Dichos propósitos corresponden a otros planes que el sector Educación tiene encomendados a diferentes grupos de trabajo, y cuyos logros se conocerán oportunamente y habrán de ser complementarios de los que pretende nuestro proyecto de gramáticas referenciales y diccionarios de consulta. Frente a la suposición de que el q"
+ },
+ {
+  "id": "P019",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué significa el ejemplo de apalaay?",
+  "oro": [
+   "aaecd787ee84"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 198,
+  "pasaje": "198 CERRON - PALOMINO ¿ Imaktam uyshu - ¿ zykal puliykanki? ‘ ¿ Quéandas por allípermaneciendo cabizbajo? ’ Puñu - / aykanlaqmi walashkaq ‘ El muchacho sigue dormido todavía ’ Muka - / aakul pasaykan ‘ Estápasando fumando ’ Ejemplos como elúltimo se emplean más a menudo en la variedad jaujina; en el resto del huanca es raro encontrarlaa sin que estéseguido del durativo y por tanto aparezca con la "
+ },
+ {
+  "id": "P020",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué tipo de información debe proporcionar el interlocutor ante las preguntas con los enclíticos sufijostaq y laq?",
+  "oro": [
+   "ab1720a62431"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 235,
+  "pasaje": "Gramática quechua: JUNIN - HUANCA 235 Enclíticos interrogativos de información. Entre esta subclase de enclíticos interrogativos se encuentran los sufijostaq ylaq. Como su nombre lo estáindicando, las respuestas a las interrogaciones con tales enclíticos no pueden ser de afirmación y negación, sino que el interlocutor estállamado a proporcionar una información acerca de lo que se pregunta. Como en"
+ },
+ {
+  "id": "P021",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Es aconsejable transcribir los términos empleando la ortografía propuesta?",
+  "oro": [
+   "968bcb4f5ead"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 72,
+  "pasaje": "es, es aconsejable transcribirlos empleando la ortografía que se ha propuesto. Esto supone el abandono automático de las reglas de ortografía castellana. De este modo se escribirá, por ejemplo, balur ‘ valor, á nimo ’, kulibray ‘ culebra ’, kiisu ‘ queso ’, giisu ‘ guiso ’, iilu ‘ hilo ’; la jota española y la g (delante de e, i) se transcribirán con h, tal como harana (jarana ’, hiniral ‘ general"
+ },
+ {
+  "id": "P022",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se replicaban en algunos sectores marginados las voces castellanas con fonemas b, d y g?",
+  "oro": [
+   "7e0b1ce8fafa"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 50,
+  "pasaje": "50 CERRON - PALOMINO Los fonemas castellanos / b, d, g / se sustituí an en un principio por las consonantes / w, t ~ r, k ~ h /, respectivamente. Así, voces como caballo, adobe, cigarro, etc., se replicaban — y a ún se replican en algunos sectores tanto social como ^ geográficamente marginados — bajo la forma de [kawalu], [aruwi] y [siha: ru], respectivamente. Hoy día, en la mayoría de los comunol"
+ },
+ {
+  "id": "P023",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué diferencia hay entre yaykuñ aq y yaykuqluñ aq?",
+  "oro": [
+   "68ed143108a9"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 206,
+  "pasaje": "206 CER RO N - P ALOMINO ‘ Lo acabó de perder ’ ‘ Lo acabaron de lavar ’ Seguido del narrativoñ aq o con verbos que indican una acción instantánea,qlu marca un aspecto puntual en un pasado reciente. Ejemplos: Miku - ^ / wñ aq Tali - ^ / vñ anki Yayku - ^ / wñ aq Patrka - ^ / un Y así, una forma como yaykuqluñ aq se opone nítidamente a yaykuñ aq, ya que ésta significa que la acción de entrar se rea"
+ },
+ {
+  "id": "P024",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué indica yku cuando se emplea en invitaciones o mandatos corteses?",
+  "oro": [
+   "6cb6d57cd98f"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 201,
+  "pasaje": "los verbos yaykuy ‘ entrar ’ frente a su opuesto yalquy ‘ salir ’, aykuy ‘ meter ’ (los animales al redil) ’ versus qalquy ‘ echar (a los animales del redil) ’, etc. En la actualidad,yku parece haber perdido su sentido direccional (o lo mantiene figuradamente) e indica más bien que la acción se realiza de manera dinámica, incluso entusiasta, oponiéndose de este modo a - Iku, que supone a veces cie"
+ },
+ {
+  "id": "P025",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué cambios fonológicos ocurridos en la variedad hablada en Concepción afectan a las letras c y l?",
+  "oro": [
+   "c72602912508"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 33,
+  "pasaje": "estádada por los siguientes cambios fonológicos ocurridos en la variedad hablada en Concepción: a) El cambio de / c / a la retroflexa [c] en todos los contextos excepto delante de la vocal / i / (así, por ejemplo, / caka / ‘ puente ’, / cuku / ‘ sombrero ’, / manca / ‘ susto ’, [caka], [cuku], [manca] y [acka]; pero / cimpa / ‘ orilla ’, / miciy / ‘ pastear ^, etc. quedan igual). b) El cambio de /"
+ },
+ {
+  "id": "P026",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué la hipótesis sobre el cambio vocálico no es del todo infundada?",
+  "oro": [
+   "aaac3dbcac33"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 208,
+  "pasaje": "acción. Que esta hipótesis no es del todo infundada salta a la vista cuando se constata que en la zona suroriental del Huaylla - Huanca (de Huancán hacia el sur) todavía se usapaa con el mismo valor depaaku. Así, en Cullhuas se dice, por ejemplo: Shapaflmun lo que en las demás hablas del huanca puede decirseúnicamente como: Shapaakamun Nótese cómo se efectúa el cambio vocálico que afecta apaaku, p"
+ },
+ {
+  "id": "P027",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo funciona la cláusula relativa en las tres oraciones quechua presentadas?",
+  "oro": [
+   "df20839f0806"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 265,
+  "pasaje": "265 Gramática quechua: JUNIN - HUANCA Nuna kaarru suwaí / uznkaqta ashiykaa ‘ Estoy buscando a la persona que robó un carro ’ Luwiskaq waaka watras / iankaqta pastukta quykan ‘ Luis estádando pasto a la vaca que parió ’ En el primer ejemplo, la oración libru lantishankaq modifica al núcleo walash y con él funciona como sujeto del verbo wañukun; en la segunda oración, kaarru suwashankaq modifica a "
+ },
+ {
+  "id": "P028",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué se escriben palabras como rosa o rama con una sola erre aunque fonéticamente se pronuncien con doble?",
+  "oro": [
+   "b0616df8b82b"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 68,
+  "pasaje": "ce en contacto con la vocal / i /. Para quien dude de esto, basta con detenerse un momento a reflexionar acerca de la escritura castellana de palabras con r en posición que no sea la intervocálica. Se escribe rosa, rama, risa, alrededor, Enrique, etc., con una sola ere y nadie exige ni se preocupa de que se las escriba con doble ere (es decir, * rrosa, * rrama, * rrisa, etc.), ya que, fonéticament"
+ },
+ {
+  "id": "P029",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué diferencia existe entre wallpakaq 'la gallina' e ivallpa 'gallina'?",
+  "oro": [
+   "040a630bb975"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 142,
+  "pasaje": "arte de la pronunciación de la q, es idéntica a la registrada en Sicaya y Orcotuna, por ejemplo. Por lo demás, en el sur del Valle los hablantes reconocen inmediatamente a los sicaí nos por el empleo del artículo en la forma de [ka:]. Como quiera que se realice, ya sea en formaíntegra o como un simple alargamiento vocálico, el hecho es que esta categoría es altamente empleada por el quechuahablant"
+ },
+ {
+  "id": "P030",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se originaron las formas onomatopéyicas como cielo, tienda y aceite?",
+  "oro": [
+   "e9dc866ffc88"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 56,
+  "pasaje": "ocálicos, como en los casos de cielo, tienda, aceite, etc., que dieron / si: lu /, / tinda / y / asi: ti /, respectivamente; (b) semivocalización de uno de los elementos del diptongo, así como en sueño, bueno y cuento, que dieron respectivamente / suyñu /, / buynu / y / kwintu /; y (c) por inserción de una semivocal entre los dos segmentos, tal como en feo, león y peón, que fueron incorporados baj"
+ },
+ {
+  "id": "P031",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cuándo no es válida la restricción señalada sobre la elisión del verbo?",
+  "oro": [
+   "a811f25a5b02"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 100,
+  "pasaje": "100 CERRO N - PALOMINO * Anaqmi allpakaq kan * Llapanmi tukilla kapaakun ‘ Todos son bonitos ’ resultan agramaticales, mientras que si se eliden los verbos las mismas oraciones devienen correctas, es de - ‘ La tierra es dura ’ cir: ‘ La tierra (es) dura ’ Todos (son) bonitos ’ La restricción señalada no es válida cuando se trata de una oración con sujeto de primera o segunda persona; por ejemplo: "
+ },
+ {
+  "id": "P032",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Es posible que una palabra sea una frase pero que no toda frase esté formada por una palabra necesariamente?",
+  "oro": [
+   "49f99d66da4f"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 86,
+  "pasaje": "uscar ’, el derivativochi ‘ causativo ’ (véase Cap. VI, sección 6.21. 1), el durativoykaa (véase Cap. VI, sección 6.21. 22), y finalmente el sufijo flexivo de tercera persona, es decirn. Como se podrádeducir, una palabra puede ser una frase, pero no toda frase estáformada por una palabra necesariamente. Así, la palabra ashichiykan es una frase verbal (y también puede ser una oración si es que se l"
+ },
+ {
+  "id": "P033",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué sucede cuando la respuesta es negativa?",
+  "oro": [
+   "a6a592d464a8"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 110,
+  "pasaje": "110 CER RO N - PALO MINO (Manara) Wankayuqtac / m lishaq (Manam) walac / iu Wankayuqta lishaq (Manam) Wankayuqta wala lishaqc / iw Lo normal es sin embargo que solamente se use la partícula mana seguida del elemento marcado porchu. En las preguntas negativas se emplea mana seguido dechun aun cuando entre ambos medie algún otro sufijo; por ejemplo: ¿ Manac / mn Hawhakta linki? ‘ ¿ No vas a Jauja? ’"
+ },
+ {
+  "id": "P034",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Con qué distritos limita Jauja por el norte y por el sur?",
+  "oro": [
+   "dd91ee79c22b"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 30,
+  "pasaje": " Jauja; por el norte, en la margen derecha del río Mantaro, limita con el distrito de Orco tuna (Concepción), y en la margen izquierda, con el distrito de Hualhuas (Huancayo). Por su parte, el Huaycha - Huanca cubre buena parte de la provincia de Concepción e incluye algunos distritos tanto de Huancayo como de Jauja; por el sur limita, en la margen derecha, con el distrito de Sicaya, y en la marge"
+ },
+ {
+  "id": "P035",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Dónde aparece kaq normalmente?",
+  "oro": [
+   "159ca75cd714"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 144,
+  "pasaje": "144 CERRON - PALOMINO Como se habrápodido apreciar,kaq aparece después del pluralizadorskuna, pero antes de los sufijos de persona y de los casuales, con una sola excepción en esteúltimo caso:kaq ocurre detrás del genitivopa cuando el tema corresponde a la subclase sustantiva de los pronombres personales; así, por ejemplo: ‘ el mío ’ ‘ el tuyo ’ ‘ el suyo ’ ‘ el nuestro (inch) ’ yaqapfoz < 7 qampa"
+ },
+ {
+  "id": "P036",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se forma la disyunción en quechua?",
+  "oro": [
+   "b3b578edbd54"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 249,
+  "pasaje": " VII, sección 7.21). Ejemplos: Kunkaa - / a ^, pataalaq nanaman ‘ Ya mi garganta, ya mi estómago me duelen ’ Tutapapis mikun ‘ laq, upyanlaq ‘ De noche inclusive ora come, ora toma ’ Con el enclíticopis pueden también formarse oradistributivas, como lo prueban los siguientes clones ejemplos: Qampíj, paypis, yaqapís huchayuqmi kanchik ‘ Tú, é l y yo tenemos la culpa ’ Qampaqpíj, paypaqp ¿ mikuyka k"
+ },
+ {
+  "id": "P037",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué sufijo se usa para marcar localización espacial o temporal?",
+  "oro": [
+   "337427a4ea5d"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 133,
+  "pasaje": " no hablas? ’ En las construcciones comparativas (véase Cap. VIII, sección 8.34. 2) el término con el que se compara algo lleva el sufijopiqta; por ejemplo: Allquykim ashwan awkish aMcpinpiqta ‘ Tu perro es más viejo que el (perro) de él ’ En las narracionespiqta se usa unido a chay como un conector, significando ‘ luego ’, ‘ después ’, ‘ entonces ’, etc. Ejemplo: Chaypiqtash likuykalkan kuurrilla"
+ },
+ {
+  "id": "P038",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué los bilingües no son intercambiables en su aptitud idiomática?",
+  "oro": [
+   "688ee6ce8e6c"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 14,
+  "pasaje": "tende desarrollar el dominio de la lectura y escritura en la lengua materna del educando y motivar el aprendizaje de una segunda lengua. Distinto es el planteo que corresponde a la gramática referential y al diccionario de consulta, como los pensamos en nuestro proyecto. Los bilingües, es conocido, son hábiles para comunicarse en dos idiomas. Pero también es sabido que su aptitud idiomática, salvo"
+ },
+ {
+  "id": "P039",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué el hablante jaujino encuentra dificultades para interpretar palabras del Yaqa - Huanca?",
+  "oro": [
+   "708d18416c76"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 36,
+  "pasaje": "36 CERRON - PALOMINO nos “ quechua ” (cf. las formas del Huaylla [ilu] ‘ tronco ’, [ur?? ul] ‘ rodilla ’, etc. frente a las correspondientes jaujinas [hilu] y [huqhul], respectivamente), y por tanto determine una asimetricidad en lo que respecta a inteligibilidad, ya que el hablante jaujino encuentra algunas dificultades en la interpretación de palabras del Yaqa - Huanca que conllevan dicho cambio"
+ },
+ {
+  "id": "P040",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué la elección del Ñuqa - Huanca como dialecto base para la fonología del huanca no excluye el que se tomen en cuenta algunos otros rasgos de la variedad Yaqa - Huanca?",
+  "oro": [
+   "958d520194ec"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 37,
+  "pasaje": " lo sustancial obedece a la misma intención de Ráez, se diferencia de la del franciscano más bien en los detalles antes que en lo fundamental, como se verá cuando se discuta el sistema fonológico pandialectal del Huanca. Por otro lado, la elección delÑuqa - Huanca como dialectobase para la fonología del huanca no excluye el que, no sólo en otros niveles gramaticales sino también en el mismo nivel "
+ },
+ {
+  "id": "P041",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué significa que construcciones de este tipo suponen por lo menos dos frases?",
+  "oro": [
+   "ae3c12a86201"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 153,
+  "pasaje": "153 Gramática quechua: JUNIN - HUANCA marcado por el posesivo pueden constituirse en núcleos en torno a los cuales resulta opcional a ñadir nuevos modificadores. Esto significa que construcciones de este tipo suponen por lo menos dos frases, de las cuales la frase que tiene como núcleo al sustantivo genitivizado funciona como un atributo de la frase marcada por el posesivo; es decir en: Wik qanla "
+ },
+ {
+  "id": "P042",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se forman las oraciones imperativas en quechua?",
+  "oro": [
+   "d2fdfbd271bf"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 110,
+  "pasaje": ", como ocurre en castellano: ‘ ¿ Vas a ir? ’, respuesta: ‘ No, no voy a ir ’ o simplemente ‘ No ’. En quechua también puede emplearse, para mayorénfasis, doble mana; así: Manam, manam lishaqc / m ‘ No, no voy a ir ’ Lo propio no ocurre con las respuestas afirmativas, pues una respuesta como: * Aw, aw lishaqmi ‘ Sí, sívoy a ir ’ resulta bastante redundante y simplemente no se la usa. Oraciones impe"
+ },
+ {
+  "id": "P043",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Es necesario que el controlador esté en contacto directo con el \"controlado\" para que cambie aka?",
+  "oro": [
+   "261c4d4e1118"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 189,
+  "pasaje": "189 Gramática quechua: JUNIN - HUANCA Huudaskaqta lupa - Aaykaachin ‘ Está haciendo quemar al Judas ’ ¡ Kukallaykita lanti - Aamay! ‘ ¡ Véndeme, pues, tu coquita! ’ Chakwashkaq almursuk yanu - & amuñ aq ‘ La anciana había cocinado almuerzo ’ Apa - Aalkapullaashaq ‘ Se lo llevaré de paso ’ Mika - Aalkaalin ‘ Se lo comieron ’ Nótese cómo, para queku cambie aka, no es necesario que el controlador est"
+ },
+ {
+  "id": "P044",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué se elige la h para representar al fonema /h/ en lugar de la j?",
+  "oro": [
+   "99bfeb828552"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 68,
+  "pasaje": "os mencionados. De este modo se evita la preocupación por la representación de [s], cuya solución a favor de sr o rs resulta completamente inadecuada. Fuera de esto, la escritura con sh armoniza ortográficamente al Huanca con las demás variedades del quechua central, en las que el sonido retroflexo es desconocido. 2.5. 14. Se elige la h para representar al fonema / h / siguiendo básicamente la esc"
+ },
+ {
+  "id": "P045",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿A qué se refiere dentro de la oración?",
+  "oro": [
+   "c18bcd39d639"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 82,
+  "pasaje": "82 CERRON - PALOMINO tes dentro de la oración se refiereúnicamente al de los constituyentes que podemos llamar mayores. En efecto, como se verá en su momento oportuno, el orden de los elementos que conforman una frase nominal es por el contrario fijo; para dar sólo un ejemplo: el que se da entre el adjetivo y el sustantivo es fijo, precediendo siempre el primero al segundo, de tal manera que una f"
+ },
+ {
+  "id": "P046",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo ayudará la gramática al lector cuando vacile al hablar en quechua o se sorprenda ante un cierto tipo constructivo?",
+  "oro": [
+   "61f90e433df8"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 16,
+  "pasaje": "libro práctico, de auxilio, que, además, secundariamente lo habituará en el manejo futuro de obras más ambiciosas y complejas que las aquípresentadas. Cada vez que el lector vacile al hablar en quechua, o que se sorprenda ante un cierto tipo constructivo o un determinado sonido, la gramática lo ayudaráa disipar su indecisión, a recordar el giro olvidado o arcaizante, a reconocer lasáreas de variac"
+ },
+ {
+  "id": "P047",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué sufijo atenuador existe en el quechua además del llaa?",
+  "oro": [
+   "ab359faa1946"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 111,
+  "pasaje": "Gramática quechua: JUNIN - HUANCA 111 ‘ ¡ Levántense! ’ ‘ ¡ Anda a Yanamarca! ’ ‘ ¡ Tráe (lo) aquí, por favor! ’ ¡ Shalkapaakuy! ¡ Yanamalkakta liy! ¡ Apamullay! Existen diversos recursos para mitigar el mandato. Por ejemplo, en laúltima oración, el afectivollaa (véase Cap. VI, sección 6.21. 4) atenúa la orden, puesto que sin él la oración resulta más severa, es decir: ‘ ¡ Tráe (lo) aquí! 9 ¡ Apam"
+ },
+ {
+  "id": "P048",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué la expresión Wik uchuk yulaq wallpakaq ashpikatraykan se considera una oración simple?",
+  "oro": [
+   "434cd6c4ceed"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 96,
+  "pasaje": "ila baila (también) ’ es decir contiene dos sujetos, por lo que no puede ser considerada como una oración simple (para más detalles, véase Cap. VIII). El hecho de que una oración simple no pueda tener más de un verbo no significa que tanto el sujeto como el predicado no puedan ser expandidos mediante modificadores. En efecto, como ya se señaló, una oración estáconformada por frases; é stas pueden "
+ },
+ {
+  "id": "P049",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué son las dos propiedades fundamentales de las oraciones subordinadas?",
+  "oro": [
+   "8776e7eead76"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 251,
+  "pasaje": "a) función sustantiva, bajo la forma de oraciones complementarias; (b) función adjetiva, en la forma de oraciones relativas; y (c) función adverbial, en la forma de oraciones adverbiales. Dos son las propiedades fundamentales de las oraciones subordinadas: en primer lugar, no tienen flexión de tiempo, aunque los sufijos que marcan la subordinación guardan una estrecha relación temporal con el verb"
+ },
+ {
+  "id": "P050",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cuál es la forma escrita correcta del topónimo Tunanmarca según la información consignada en el volumen?",
+  "oro": [
+   "ee8883f2909c"
+  ],
+  "documento": "Diccionario_Huanca_Quechua_Castellano_Ca.pdf",
+  "pagina": 5,
+  "pasaje": "a los topónimos corres pondientes a muchos sitios y yacimientos han sido difundidos en una \nversión “sureñizada” de quechua, como es el caso del emblemático \nasentamiento precolonial tardío de Tunanmarca, localizado en la \nprovincia de Jauja ( v. D’Altroy y Hastorf 2001). A partir de la infor mación consignada en el volumen ahora reseñado, salta a todas luces \nque su forma escrita debería correspo"
+ },
+ {
+  "id": "P051",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué explica la naturaleza larga de la última vocal en ciertos casos?",
+  "oro": [
+   "b084e9c7b73e"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 60,
+  "pasaje": " que terminan en vocal larga. Así, las emisiones / ñ awi: / ‘ mi ojo ’, / pulí: / ‘ (yo) camino ’, / kilu: / ‘ mi diente ’, / miku: / ‘ (yo) como ’, etc., se pronuncian como [ñ awí:], [pulí:], [kilu:] y [miku:], respectivamente. En estos casos tal parece ser que la naturaleza larga de laúltima vocal atrae consigo el rasgo de intensidad. Esto puede explicar por quéRáez (1917: 141) da como marca de "
+ },
+ {
+  "id": "P052",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se asimiló el grupo / fl / en palabras como fletar?",
+  "oro": [
+   "d731626aaa2a"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 51,
+  "pasaje": ", clavo, cruz, gloria, gracias, etc., fueron asimilados en un primer momento como [la: sa], [ri: su], [ru: tu], [la: bu], [rus], [lurya] y [rasyas], respectivamente. Otro tanto ocurrió con el grupo / fl /, como en fletar, que dio [li: tay]. Hay que advertir que dicha asimilación por supresión del primer elemento del grupo se realizóbásicamente en inicial de palabra y, en menor escala, en posición "
+ },
+ {
+  "id": "P053",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué diferencia hay entre las interrogaciones con pleartaq y las de contaq?",
+  "oro": [
+   "93047ebd7fd1"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 236,
+  "pasaje": "236 CERRON - PALOMINO pleartaq se usaralaq entonces cambia totalmente la situación, ya que este enclítico — indudablemente relacionado con el estativolaa (cf. Cap. VI, sección 6.21. 12) y el continuativolaq (cf. 7.21) — hace que la pregunta no presuponga que el interlocutor sepa la respuesta. En efecto, en los interrogativos conlaq el hablante no espera que su oyente sepa darle la información que "
+ },
+ {
+  "id": "P054",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué son las subordinadas consecutivas?",
+  "oro": [
+   "96aadf58bcc2"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 271,
+  "pasaje": "271 Gramática quechua: JUNIN - HUANCA los verbos se suprimen y éste es básicamente el de la oración subordinada. La forma completa de la oración sería:  * Luwis suudan Pashku snuádishanpiqta masta Adviértase asimismo como el préstamo castellano más resulta indispensable en este tipo de oraciones. Subordinadas consecutivas. Son aquellas en las cuales se da la explicación o la causa de la acción de"
+ },
+ {
+  "id": "P055",
+  "subconjunto": "E_prosa_es",
+  "consulta": "Según la RM N° 1218-1985-MINEDU, ¿qué grafía se usa para representar este sonido?",
+  "oro": [
+   "9632ba441eae"
+  ],
+  "documento": "Lamina de alfabeto - quechua wanka.pdf",
+  "pagina": 1,
+  "pasaje": "o Vega. Asesoría Pedagógica: Humberto Avelino León Huarac. Ilustración: Archivo Digeibira-DEIB, Luis Alberto Sanchez Palma. \nCuidado de la Edición: Moisés Cárdenas Guzmán, Franklin Espinoza Bustamante, Richard Ibarra Valer. Diagramación: Mercy Kary Bru no López.\n1Según la RM N° 1218-1985-MINEDU, para representar este sonido se usa la grafía <tr>.\n2Esta grafía representa un alófono del fonema /sh/."
+ },
+ {
+  "id": "P056",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué limitación existe respecto de los márgenes silábicos en quechua?",
+  "oro": [
+   "8c63392fb917"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 59,
+  "pasaje": "nción nuclear de las vocales. Si bien es verdad que todas las vocales pueden constituir núcleo y pueden asimismo portar un margen prenuclear, ú nicamente las vocales breves admiten margen postnuclear; lo que implica que los núcleos formados por vocales largas no admiten pendiente postnuclear. Así, se tiene [ha:. la] o [a:. la] ‘ maguey ’, pero normalmente no hay algo como * [watl. ki]. Finalmente,"
+ },
+ {
+  "id": "P057",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo se pronuncian las palabras / alqu / 'perro' y / qalu / 'lengua' en la zona oriental de Yaqa - Huanca?",
+  "oro": [
+   "d404bf781e6a"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 44,
+  "pasaje": "lotálica (según propia descripción de los hablantes, como una “ pujada ”), es decir como [?]. Esto es cierto sobre todo en la zona oriental de Yaqa - Huanca (por ejemplo, Andamarca, Acobamba y Pariahuanca), así como también en las localidades de Sapallanga, Huacrapuquio, Viques, Huayucachi, Huamancaca Grande, en el sur del Valle, y Carhuacallanga, en la zona ahina. En estos puntos, palabras como /"
+ },
+ {
+  "id": "P058",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Por qué los hallazgos y las descripciones propios de los trabajos de investigación científica no pudieron ser útiles para el servicio que se pretende satisfacer con las gramáticas?",
+  "oro": [
+   "f68a84e25b3e"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 13,
+  "pasaje": "el siglo XVI; que una serie de instituciones universitarias, académicas y religiosas en el Perúy el extranjero ha cultivado, a veces en circunstancias difíciles, pero sin desmayo, el interés por indagar, esclarecer y difundir las peculiaridades de la lengua quechua en sus distintas variedades regionales. Pero los hallazgos y las descripciones propias de los trabajos de investigación científica, po"
+ },
+ {
+  "id": "P059",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Qué son las oraciones yuxtapuestas?",
+  "oro": [
+   "7e377e37ce2d"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 246,
+  "pasaje": "s oraciones yuxtapuestas son aquellas en las que las oraciones simples que las integran están unidas entre sí solamente gracias a una breve pausa acompañ ada por un descenso de la entonación. Sean los ejemplos: Waakakaq, kawallukaq, ashnukaq mikuypiqta wañ uykalkan ‘ La vaca, el caballo y el burro están muriendo de hambre ’ Uchukaqllakaq mikun, awsan, puñ un hinallam ‘ La criatura solamente come, "
+ },
+ {
+  "id": "P060",
+  "subconjunto": "E_prosa_es",
+  "consulta": "¿Cómo ingresaron palabras como terrera, barrera y cigarro en el habla huanca?",
+  "oro": [
+   "f84a108f6d48"
+  ],
+  "documento": "vbook.pub_cerron-palomino-rodolfo-gramatica-quechua-junin-huanca-1976-ocrpdf.pdf",
+  "pagina": 50,
+  "pasaje": "a de los dialectos del castellano andino, es decir [^ ayna] y [^ aldin] (para el tratamiento de los diptongos castellanos, véase 2.23). Con respecto a la vibrante múltiple castellana /? /, cabe mencionar que en un momento dicho fonema fue tratado como una vibrante simple, es decir / r /, que, como se vio, el hablante huanca ya había aprendido a articular. De este modo, palabras como terrera ‘ piez"
+ }
+]
